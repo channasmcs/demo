@@ -1,1 +1,1 @@
-<? echo "hello channa this is awsome"; ?>
+<? echo "hello channa this is "; ?>
